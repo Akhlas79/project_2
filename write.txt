@@ -1,4 +1,8 @@
 This is write.txt file.
 I have added something.
 Another some have added.
+<<<<<<< HEAD
 Some have added in section-2 branch.
+=======
+Ami section-1 somporke kichu likhlam.
+>>>>>>> 80877e774cf0a09243592d226a450aac8d5ba061
